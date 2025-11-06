@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if not exist \"figures\" mkdir figures)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(timeout 300 python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
