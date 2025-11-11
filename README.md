@@ -4,9 +4,10 @@ This repository contains code for the manuscript "Graph-based spatial proximity 
 
 To set up environments, run the following command: `conda env create -f environ.yml`
 
-The data can be found at: https://figshare.com/projects/Signaling_Project_PLA/195958 
-Warning: the entire dataset is 624 GB of 51,681 files and 45,416 folders. The entire dataset can be provided upon email request
 
+## Data: HOW TO UNPACK THIS DATASET
+Some of the data can be found at: https://figshare.com/projects/Signaling_Project_PLA/195958 
+Warning: the entire dataset is 624 GB of 51,681 files and 45,416 folders. The entire dataset can be provided upon email request
 
 ## Citation
 

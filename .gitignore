@@ -2,3 +2,9 @@ data/*
 !data/.gitkeep
 data_compress/
 .claude/
+notebooks/04_rename_data_compress.py
+notebooks/05_zenodo_upload_data_compress.py
+notebooks/06_figshare_upload_data_compress.py
+notebooks/07_zenodo_delete_depositions.py
+notebooks/*.txt
+notebooks/__pycache__

@@ -4,7 +4,17 @@
       "Bash(if not exist \"figures\" mkdir figures)",
       "Bash(python:*)",
       "Bash(pip install:*)",
-      "Bash(timeout 300 python:*)"
+      "Bash(timeout 300 python:*)",
+      "Bash(dir /b *.7z* 2)",
+      "Bash(nul)",
+      "Bash(timeout 5 python:*)",
+      "Bash(timeout 10 python:*)",
+      "Bash(timeout 30 python:*)",
+      "Bash(timeout 45 python:*)",
+      "Bash(dir /b \"Y:\\coskun-lab2\\OFFLOAD2025\\47 PLA super resolution\\Github\\data_compress\")",
+      "Bash(findstr:*)",
+      "Bash(dir:*)",
+      "Bash(if exist \"Y:\\coskun-lab2\\OFFLOAD2025\\47 PLA super resolution\\Github\\data_compress\\.zenodo_upload_tracking.json\" del \"Y:\\coskun-lab2\\OFFLOAD2025\\47 PLA super resolution\\Github\\data_compress\\.zenodo_upload_tracking.json\")"
     ],
     "deny": [],
     "ask": []
