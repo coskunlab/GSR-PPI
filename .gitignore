@@ -1,7 +1,7 @@
 data/*
 !data/.gitkeep
 data_compress/
-.claude/
+/.claude/
 notebooks/04_rename_data_compress.py
 notebooks/05_zenodo_upload_data_compress.py
 notebooks/06_figshare_upload_data_compress.py
